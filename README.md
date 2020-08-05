@@ -7,3 +7,7 @@ Requirements
 Tkinter:
 
     $ sudo apt-get install python3-tk
+
+Licence
+-------
+music_saver_gui is licensed under the terms of the MIT License (see the file LICENSE).
