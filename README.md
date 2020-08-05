@@ -2,8 +2,8 @@
 
 This project is for practice about adding data csv and using tkinter for gui
 
-### Requirements
-------
+Requirements
+------------
 Tkinter:
-    
+
     $ sudo apt-get install python3-tk
